@@ -1,2 +1,2 @@
 # talks
-Codes related to talks in meetups
+Codes related to my talks in meetups
